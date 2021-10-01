@@ -6,7 +6,7 @@ Vanilla Features is a collection of little, almost uselles plugins made by Linux
 ## Lightning
 
 Where lightning strikes, it explodes (explotion power 2). If it hits metal block or water it does not explode.
-Metal blocks are iron, gold and copper block and also all copper variations / blocks
+Metal blocks are iron, gold and copper block and also all copper variations / blocks.
 
 ## Squids
 
@@ -16,7 +16,7 @@ there is also a glowing.
 ## Glowing
 
 When you right click on a mob with glow ink or glowberries mob gets glowing effect for 1 minute.
-When you eat a glowberry you get glowing effect for 5 seconds
+When you eat a glowberry you get glowing effect for 5 seconds.
 
 ## Drops
 
