@@ -1,0 +1,7 @@
+name: VanillaFeatures
+version: '${project.version}'
+main: me.linuxheki.vanillafeatures.Main
+api-version: 1.17
+authors: [ LinuxHeki ]
+description: A lot of little but useful mods
+website: https://github.com/linuxheki
