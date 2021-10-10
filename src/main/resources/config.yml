@@ -3,6 +3,7 @@ Glowberry: true
 Squids: true
 Glowing: true
 Drops: true
+DeathMessage: true
 Drops_items:
   saplings: true
   bamboo: true
